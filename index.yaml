@@ -2,21 +2,30 @@ apiVersion: v1
 entries:
   mychart:
   - apiVersion: v1
+    appVersion: "1.1"
+    created: 2020-01-23T12:04:35.347133468Z
+    description: A Helm chart for Kubernetes
+    digest: 8677a982cc9c89f384704053bf2f1d71a2bdb53e6c52e371527cadf6b823ad4b
+    name: mychart
+    urls:
+    - https://harirr.github.io/helm-charts/mychart-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-01-22T18:02:36.708716117Z
+    created: 2020-01-23T12:04:35.346799646Z
     description: A Helm chart for Kubernetes
     digest: fd07b9d36562c0e724130c41f77d2e1be747a7dbe7f855da96ad364e1220b007
     name: mychart
     urls:
-    - https://kmayer10.github.io/helm-charts/mychart-0.1.1.tgz
+    - https://harirr.github.io/helm-charts/mychart-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-01-22T18:02:36.708066127Z
+    created: 2020-01-23T12:04:35.346419496Z
     description: A Helm chart for Kubernetes
     digest: 6c00f889b6e035306bf92281e0af494906577bd5f0c71030dfe9db3d40c1fc6d
     name: mychart
     urls:
-    - https://kmayer10.github.io/helm-charts/mychart-0.1.0.tgz
+    - https://harirr.github.io/helm-charts/mychart-0.1.0.tgz
     version: 0.1.0
-generated: 2020-01-22T18:02:36.70709308Z
+generated: 2020-01-23T12:04:35.345829691Z
